@@ -25,50 +25,50 @@
     
 #### 3.  高雄美食網 (React/Redux)
 
-   網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
+   網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
 
    - 使用React + Redux製作，可查詢高雄各地的知名美食店家
    - 利用 AJAX 介接 JSON 資料
     
 #### 4.  圈圈叉叉遊戲(無限放大版)  (React)
 
-   網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
+   網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
 
    - 使用react製作的圈圈叉叉小遊戲，格數可依照玩家喜好無限增加。
 
 #### 5.  旋轉式輪播 (React/CSS3)
 
-   網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
+   網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
 
    - 用react和css3製作的輪播，圖片變換時會旋轉。
 
 #### 6.  可以抓來抓去的圖片 (React)
 
-   網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
+   網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
 
    - 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
 
 #### 7.  鋼筋水泥結構圖 (Jquery/CSS3)
 
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
 
 #### 8.  瞄準動畫 (CSS3)
 
-   網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
+   網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
 
    - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
 #### 9.  Camera Store (CSS3/RWD)
 
-   網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
+   網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
 
    - 用flex製作一個RWD相機拍賣網站。
 
 #### 10. 勝利首席
 
-   網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
+   網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
    - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。
 
