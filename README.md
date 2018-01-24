@@ -9,13 +9,13 @@
 
 ## Works
 
-# 1.  鼎桓數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
+#### 1.  鼎桓數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
 
     網址：<a href="https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673">https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673</a>
 
     - 使用react 和 redux 製作的招募網站，主要負責版型切版和後端API串接
 
-# 2.  相片裁切工具 (React)
+#### 2.  相片裁切工具 (React)
 
     網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
 
@@ -23,50 +23,50 @@
     - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
     - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
     
-# 3.  高雄美食網 (React/Redux)
+#### 3.  高雄美食網 (React/Redux)
 
     網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
 
     - 使用React + Redux製作，可查詢高雄各地的知名美食店家
     - 利用 AJAX 介接 JSON 資料
     
-# 4.  圈圈叉叉遊戲(無限放大版)  (React)
+#### 4.  圈圈叉叉遊戲(無限放大版)  (React)
 
     網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
 
     - 使用react製作的圈圈叉叉小遊戲，格數可依照玩家喜好無限增加。
 
-# 5.  旋轉式輪播 (React/CSS3)
+#### 5.  旋轉式輪播 (React/CSS3)
 
     網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
 
     - 用react和css3製作的輪播，圖片變換時會旋轉。
 
-# 6.  可以抓來抓去的圖片 (React)
+#### 6.  可以抓來抓去的圖片 (React)
 
     網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
 
     - 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
 
-# 7.  鋼筋水泥結構圖 (Jquery/CSS3)
+#### 7.  鋼筋水泥結構圖 (Jquery/CSS3)
 
     網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
     
     - 用CSS3和Jquery來製作的鋼筋結構圖。
 
-# 8.  瞄準動畫 (CSS3)
+#### 8.  瞄準動畫 (CSS3)
 
     網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
 
     - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
-# 9.  Camera Store (CSS3/RWD)
+#### 9.  Camera Store (CSS3/RWD)
 
     網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
 
     - 用flex製作一個RWD相機拍賣網站。
 
-# 10. 勝利首席
+#### 10. 勝利首席
 
     網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
@@ -74,13 +74,13 @@
 
 ## Career
 
-### 銳綸數位股份有限公司 - 網頁設計師 (2015/09 – 2017/06)
+#### 銳綸數位股份有限公司 - 網頁設計師 (2015/09 – 2017/06)
 
 * 製作學校單位和建案網站 
 * 使用photoshop製作版型 
 * 負責網頁切版和jquery動畫製作
 
-### 鼎桓數位科技股份有限公司 – 前端工程師 (2017/06 - now)
+#### 鼎桓數位科技股份有限公司 – 前端工程師 (2017/06 - now)
 
 * 參與公司新版招募網頁開發專案，負責網頁功能與資料渲染的 JS 部分
 * 參與公司人資產品開發專案，負責網頁功能與資料渲染的 JS 部分
@@ -89,20 +89,20 @@
 
 ## Skills
 
-  # HTML/CSS/RWD/JavaScript/jQuery
+  #### HTML/CSS/RWD/JavaScript/jQuery
 
   * HTML 建立網頁架構、CSS 修飾網頁、RWD 響應式設計
   * 熟悉 JavaScript，能夠運用程式邏輯編寫各種效果
   * 使用 jQuery製做動畫效果
 
-  # AJAX/ReactJS/Redux
+  #### AJAX/ReactJS/Redux
 
   * 瞭解 JSON、第三方 API 串聯網頁的方式
   * 使用 AJAX 與資料庫進行基礎串聯
   * 使用ReactJS 對 DOM 進行操作
   * 使用Redux 連接後端 API，了解如何對redux的state進行操作
 
-  # Git/GitHub
+  #### Git/GitHub
 
   * 能使用 Git 在 GitHub 上進行版本管理(commit、branch、push/pull、tag...etc)
 
