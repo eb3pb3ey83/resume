@@ -70,7 +70,7 @@
 
    網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
-   - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。
+   - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。 
 
 ## Career
 
