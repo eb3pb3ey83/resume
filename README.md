@@ -9,20 +9,20 @@
 
 ## Works
 
-#### 1.  鼎桓數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
-
-   網址：<a href="https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673">https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673</a>
-
-   - 使用react 和 redux 製作的招募網站，主要負責版型切版和後端API串接
-
-#### 2.  相片裁切工具 (React)
+#### 1.  相片裁切工具 (React)
 
    網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
 
    - 使用react和canvas開發的相片切割工具，可把裁好的圖片下載到電腦上。
    - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
    - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
-    
+   
+#### 2.  鼎桓數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
+
+   網址：<a href="https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673">https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673</a>
+
+   - 使用react 和 redux 製作的招募網站，主要負責版型切版和後端API串接
+   
 #### 3.  高雄美食網 (React/Redux)
 
    網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
