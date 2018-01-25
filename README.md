@@ -54,7 +54,7 @@
 
    - 用flex製作一個RWD相機拍賣網站。
    
-#### 8. 勝利首席
+#### 8. 勝利首席 (Jquery/SCSS)
 
    網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
