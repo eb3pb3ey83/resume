@@ -47,30 +47,49 @@
    網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
 
    - 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
+   
+#### 7.  Camera Store (CSS3/RWD)
 
-#### 7.  鋼筋水泥結構圖 (Jquery/CSS3)
+   網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
 
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
+   - 用flex製作一個RWD相機拍賣網站。
+   
+#### 8. 勝利首席
+
+   網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
+
+   - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。  
+   
+#### 9. 實踐大學官網(Jquery/SCSS)
+
+   網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
+    
+   - 用CSS3和Jquery來製作的鋼筋結構圖。
+   
+#### 10. 華梵大學官網(Jquery/SCSS)
+
+   網址：<a href="http://www.hfu.edu.tw/">http://www.hfu.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
 
-#### 8.  瞄準動畫 (CSS3)
+#### 11. 明道大學官網(Jquery/SCSS)
+
+   網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
+    
+   - 用CSS3和Jquery來製作的鋼筋結構圖。
+   
+#### 12. 鋼筋水泥結構圖 (Jquery/CSS3)
+
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
+    
+   - 用CSS3和Jquery來製作的鋼筋結構圖。   
+
+#### 13. 瞄準動畫 (CSS3)
 
    網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
 
    - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
-#### 9.  Camera Store (CSS3/RWD)
-
-   網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
-
-   - 用flex製作一個RWD相機拍賣網站。
-
-#### 10. 勝利首席
-
-   網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
-
-   - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。 
 
 ## Career
 
