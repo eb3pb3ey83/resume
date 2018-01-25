@@ -60,19 +60,19 @@
 
    - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。  
    
-#### 9. 實踐大學官網(Jquery/SCSS)
+#### 9. 實踐大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
    
-#### 10. 華梵大學官網(Jquery/SCSS)
+#### 10. 華梵大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.hfu.edu.tw/">http://www.hfu.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
 
-#### 11. 明道大學官網(Jquery/SCSS)
+#### 11. 明道大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
