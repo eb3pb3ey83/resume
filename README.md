@@ -17,7 +17,7 @@
    - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
    - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
    
-#### 2.  鼎桓數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
+#### 2.  鼎恒數位科技股份有限公司(Mayo Human Capital)招募官網 (React/Redux/ReactRouter)
 
    網址：<a href="https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673">https://hrm.mayohr.com/rmsportal/7E5BA886-20FF-4AF4-A663-58D15F1FD673</a>
 
