@@ -14,6 +14,7 @@
    網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
 
    - 使用react和canvas開發的相片切割工具，可把裁好的圖片下載到電腦上。
+   - 手機、平板、電腦皆可使用。
    - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
    - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
    
@@ -131,7 +132,7 @@
 
 * 當完兵後參加了資策會的web/app前端工程師養成班，從此展開了驚奇的前端旅程。
 * 接觸網頁程式語言後，發現自己對程式語言、對這個技術快速變遷的領域感到喜愛。
-* 可以確實掌控專案進度，並且對PM清楚的說明開發情形。
+* 在我的字典裡，沒有『不可能』。
 * 隨時抱持求知的渴望。假日時常去進修css、js方面的課程。
 * 想法、點子多，不斷嘗試新方式。網頁程式是能讓我好好發揮的地方。
 
