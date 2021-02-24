@@ -100,6 +100,23 @@
 
    - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
+#### 15. 遊戲橘子內部員工管理系統 - Team up (react)
+
+   - 遊戲橘子的內部員工管理系統
+
+#### 16. 豐利多 - (react)
+
+   - 房屋銷售系統,有實做多國語系
+
+#### 17. Saatchi - (react)
+
+   - 廣告投放平台, 有實作媒體檔案上傳下載功能
+
+#### 17. 國泰健檢 - (angular)
+
+   網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://booking.cathay-hcm.com.tw/booking/enterprise</a>
+
+   - 國泰的健檢預約系統
 
 ## Career
 
