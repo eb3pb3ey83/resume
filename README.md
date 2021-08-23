@@ -14,30 +14,30 @@
    使用 rxjs 製作一個具有「分圈計時」功能的計時器,
    
    功能:
-   每 100 毫秒為一個計時單位。
-   起始時間為 0。
-   當按下「開始」按鈕時，進行計時並顯示經過時間。
-   當按下「暫停」時，畫面保持在目前記錄的時間，重新按下「開始」便可以目前時間繼續計時。
-   當按下「停止」時，畫面保持在目前記錄的時間，但當按下「開始」時會重新從 0 開始計時。
-   每當按下「分圈」按鈕，記錄當下分圈的時間。
-   可以分別記錄奇數分圈（第 1、3、5 圈）和偶數分圈（第 2、4、6 圈）。
+     每 100 毫秒為一個計時單位。
+     起始時間為 0。
+     當按下「開始」按鈕時，進行計時並顯示經過時間。
+     當按下「暫停」時，畫面保持在目前記錄的時間，重新按下「開始」便可以目前時間繼續計時。
+     當按下「停止」時，畫面保持在目前記錄的時間，但當按下「開始」時會重新從 0 開始計時。
+     每當按下「分圈」按鈕，記錄當下分圈的時間。
+     可以分別記錄奇數分圈（第 1、3、5 圈）和偶數分圈（第 2、4、6 圈）。
 
    網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
 
-#### 1.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next) 帳號: samuel.zhuang@cloud-interactive.com 密碼: eb3pb3ey73
+#### 2.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next) 帳號: samuel.zhuang@cloud-interactive.com 密碼: eb3pb3ey73
 
    商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能, 
 
    網址：<a href="https://github.com/eb3pb3ey83/react-glasses">https://github.com/eb3pb3ey83/react-glasses</a>
 
 
-#### 2.  影音平台 (React/rxjs/scss) 帳號: 0796 密碼: 1234
+#### 3.  影音平台 (React/rxjs/scss) 帳號: 0796 密碼: 1234
 
    影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
 
    網址：<a href="https://github.com/eb3pb3ey83/video-platform">https://github.com/eb3pb3ey83/video-platform</a>
    
-#### 3. 國泰健檢 - (angular )
+#### 4. 國泰健檢 - (angular )
 
    國泰的健檢預約平台, 和另外兩位同事共同開發, 有使用 interceptor 來實現依序呼叫 api 的功能 (interceptor 會先拿完 token 後再去呼叫 api, 確保每隻 api 呼叫時都會附帶 token)
 
@@ -45,7 +45,7 @@
 
    - 國泰的健檢預約系統   
 
-#### 4.  相片裁切工具 (React)
+#### 5.  相片裁切工具 (React)
 
    網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
 
@@ -54,82 +54,82 @@
    - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
    - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
       
-#### 5.  高雄美食網 (React/Redux)
+#### 6.  高雄美食網 (React/Redux)
 
    網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
 
    - 使用React + Redux製作，可查詢高雄各地的知名美食店家
    - 利用 AJAX 介接 JSON 資料
     
-#### 6.  圈圈叉叉遊戲(無限放大版)  (React)
+#### 7.  圈圈叉叉遊戲(無限放大版)  (React)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
 
    - 使用react製作的圈圈叉叉小遊戲，格數可依照玩家喜好無限增加。
 
-#### 7.  旋轉式輪播 (React/CSS3)
+#### 8.  旋轉式輪播 (React/CSS3)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
 
    - 用react和css3製作的輪播，圖片變換時會旋轉。
 
-#### 8.  可以抓來抓去的圖片 (React)
+#### 9.  可以抓來抓去的圖片 (React)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
 
    - 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
    
-#### 9.  Camera Store (CSS3/RWD)
+#### 10.  Camera Store (CSS3/RWD)
 
    網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
 
    - 用flex製作一個RWD相機拍賣網站。
    
-#### 10. 勝利首席 (Jquery/SCSS)
+#### 11. 勝利首席 (Jquery/SCSS)
 
    網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
    - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。  
    
-#### 11. 實踐大學官網 (Jquery/SCSS)
+#### 12. 實踐大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
    
-#### 12. 華梵大學官網 (Jquery/SCSS)
+#### 13. 華梵大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.hfu.edu.tw/">http://www.hfu.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
 
-#### 13. 明道大學官網 (Jquery/SCSS)
+#### 14. 明道大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
    
-#### 14. 鋼筋水泥結構圖 (Jquery/CSS3)
+#### 15. 鋼筋水泥結構圖 (Jquery/CSS3)
 
    網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。   
 
-#### 15. 瞄準動畫 (CSS3)
+#### 16. 瞄準動畫 (CSS3)
 
    網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
 
    - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
-#### 16. 遊戲橘子內部員工管理系統 - Team up (react)
+#### 17. 遊戲橘子內部員工管理系統 - Team up (react)
 
    - 遊戲橘子的內部員工管理系統
 
-#### 17. 豐利多 - (react)
+#### 18. 豐利多 - (react)
 
    - 房屋銷售系統,有實做多國語系
 
-#### 18. Saatchi - (react)
+#### 19. Saatchi - (react)
 
    - 廣告投放平台, 有實作媒體檔案上傳下載功能
 
