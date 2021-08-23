@@ -9,16 +9,37 @@
 
 ## Works
 
-#### 1.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next)
+#### 1.  rxjs 計數器
+
+   使用 rxjs 製作一個具有「分圈計時」功能的計時器,
+   
+   功能:
+   每 100 毫秒為一個計時單位。
+   起始時間為 0。
+   當按下「開始」按鈕時，進行計時並顯示經過時間。
+   當按下「暫停」時，畫面保持在目前記錄的時間，重新按下「開始」便可以目前時間繼續計時。
+   當按下「停止」時，畫面保持在目前記錄的時間，但當按下「開始」時會重新從 0 開始計時。
+   每當按下「分圈」按鈕，記錄當下分圈的時間。
+   可以分別記錄奇數分圈（第 1、3、5 圈）和偶數分圈（第 2、4、6 圈）。
+
+   網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
+
+#### 1.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next) 帳號: samuel.zhuang@cloud-interactive.com 密碼: eb3pb3ey73
+
+   商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能, 
 
    網址：<a href="https://github.com/eb3pb3ey83/react-glasses">https://github.com/eb3pb3ey83/react-glasses</a>
 
 
-#### 2.  影音平台 (React/rxjs/scss)
+#### 2.  影音平台 (React/rxjs/scss) 帳號: 0796 密碼: 1234
+
+   影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
 
    網址：<a href="https://github.com/eb3pb3ey83/video-platform">https://github.com/eb3pb3ey83/video-platform</a>
    
-#### 3. 國泰健檢 - (angular)
+#### 3. 國泰健檢 - (angular )
+
+   國泰的健檢預約平台, 和另外兩位同事共同開發, 有使用 interceptor 來實現依序呼叫 api 的功能 (interceptor 會先拿完 token 後再去呼叫 api, 確保每隻 api 呼叫時都會附帶 token)
 
    網址：<a href="https://booking.cathay-hcm.com.tw/booking/enterprise/">https://booking.cathay-hcm.com.tw/booking/enterprise</a>
 
