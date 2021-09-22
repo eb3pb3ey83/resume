@@ -26,8 +26,8 @@
 
    * 實做出 typescript 裡的 interface 和 enum
 
-   網址：<a href="https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
-   網址：<a href="https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
+   * 網址：<a href="https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
+   * 網址：<a href="https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
 
 #### 4.  rxjs 計數器
 
