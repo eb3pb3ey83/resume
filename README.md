@@ -14,20 +14,20 @@
    * 優先使用 FirstName 排序
    * 如果相同名稱再看 LastName 如果連 Lastname 都相同最後再看 ID
 
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-gguzkw?file=index.ts</a>
+   網址：<a href="https://stackblitz.com/edit/typescript-gguzkw?file=index.ts">https://stackblitz.com/edit/typescript-gguzkw?file=index.ts</a>
 
 #### 2.  angular guards 實作
 
    * 實做出 angular router 裡的保護路由, 可依條件來判斷是否可進入頁面 
 
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts</a>
+   網址：<a href="https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts">https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts</a>
 
 #### 3.  typescript 的 interface 和 enum 實作
 
    * 實做出 typescript 裡的 interface 和 enum
 
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
-   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
+   網址：<a href="https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
+   網址：<a href="https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
 
 #### 4.  rxjs 計數器
 
