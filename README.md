@@ -9,7 +9,27 @@
 
 ## Works
 
-#### 1.  rxjs 計數器
+#### 1.  資料排序練習
+
+   * 優先使用 FirstName 排序
+   * 如果相同名稱再看 LastName 如果連 Lastname 都相同最後再看 ID
+
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-gguzkw?file=index.ts</a>
+
+#### 2.  angular guards 實作
+
+   * 實做出 angular router 裡的保護路由, 可依條件來判斷是否可進入頁面 
+
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts</a>
+
+#### 3.  typescript 的 interface 和 enum 實作
+
+   * 實做出 typescript 裡的 interface 和 enum
+
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
+   網址：<a href="https://eb3pb3ey83.github.io/building/">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
+
+#### 4.  rxjs 計數器
 
    * 使用 rxjs 製作一個具有「分圈計時」功能的計時器,
    
@@ -24,20 +44,20 @@
 
    網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
 
-#### 2.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next)
+#### 5.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next)
 
    商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能, 
 
    網址：<a href="https://github.com/eb3pb3ey83/react-glasses">https://github.com/eb3pb3ey83/react-glasses</a>
 
 
-#### 3.  影音平台 (React/rxjs/scss)
+#### 6.  影音平台 (React/rxjs/scss)
 
    影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
 
    網址：<a href="https://github.com/eb3pb3ey83/video-platform">https://github.com/eb3pb3ey83/video-platform</a>
    
-#### 4. 國泰健檢 - (angular )
+#### 7. 國泰健檢 - (angular )
 
    國泰的健檢預約平台, 和另外兩位同事共同開發, 有使用 interceptor 來實現依序呼叫 api 的功能 (interceptor 會先拿完 token 後再去呼叫 api, 確保每隻 api 呼叫時都會附帶 token)
 
@@ -45,7 +65,7 @@
 
    - 國泰的健檢預約系統   
 
-#### 5.  相片裁切工具 (React)
+#### 8.  相片裁切工具 (React)
 
    網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
 
@@ -54,82 +74,82 @@
    - 有兼顧相容性，ie11/edge/firefox/chrome皆可使用。(chrome、firefox使用dataURL下載圖片，ie11、edge則用msSaveBlob來下載圖片)
    - 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
       
-#### 6.  高雄美食網 (React/Redux)
+#### 9.  高雄美食網 (React/Redux)
 
    網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
 
    - 使用React + Redux製作，可查詢高雄各地的知名美食店家
    - 利用 AJAX 介接 JSON 資料
     
-#### 7.  圈圈叉叉遊戲(無限放大版)  (React)
+#### 10.  圈圈叉叉遊戲(無限放大版)  (React)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
 
    - 使用react製作的圈圈叉叉小遊戲，格數可依照玩家喜好無限增加。
 
-#### 8.  旋轉式輪播 (React/CSS3)
+#### 11.  旋轉式輪播 (React/CSS3)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
 
    - 用react和css3製作的輪播，圖片變換時會旋轉。
 
-#### 9.  可以抓來抓去的圖片 (React)
+#### 12.  可以抓來抓去的圖片 (React)
 
    網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
 
    - 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
    
-#### 10.  Camera Store (CSS3/RWD)
+#### 13.  Camera Store (CSS3/RWD)
 
    網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
 
    - 用flex製作一個RWD相機拍賣網站。
    
-#### 11. 勝利首席 (Jquery/SCSS)
+#### 14. 勝利首席 (Jquery/SCSS)
 
    網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
 
    - 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。  
    
-#### 12. 實踐大學官網 (Jquery/SCSS)
+#### 15. 實踐大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
    
-#### 13. 華梵大學官網 (Jquery/SCSS)
+#### 16. 華梵大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.hfu.edu.tw/">http://www.hfu.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
 
-#### 14. 明道大學官網 (Jquery/SCSS)
+#### 17. 明道大學官網 (Jquery/SCSS)
 
    網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。
    
-#### 15. 鋼筋水泥結構圖 (Jquery/CSS3)
+#### 18. 鋼筋水泥結構圖 (Jquery/CSS3)
 
    網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
     
    - 用CSS3和Jquery來製作的鋼筋結構圖。   
 
-#### 16. 瞄準動畫 (CSS3)
+#### 19. 瞄準動畫 (CSS3)
 
    網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
 
    - 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
 
-#### 17. 遊戲橘子內部員工管理系統 - Team up (react)
+#### 20. 遊戲橘子內部員工管理系統 - Team up (react)
 
    - 遊戲橘子的內部員工管理系統
 
-#### 18. 豐利多 - (react)
+#### 21. 豐利多 - (react)
 
    - 房屋銷售系統,有實做多國語系
 
-#### 19. Saatchi - (react)
+#### 22. Saatchi - (react)
 
    - 廣告投放平台, 有實作媒體檔案上傳下載功能
 
