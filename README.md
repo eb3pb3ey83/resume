@@ -9,27 +9,7 @@
 
 ## Works
 
-#### 1.  資料排序練習
-
-   * 優先使用 FirstName 排序
-   * 如果相同名稱再看 LastName 如果連 Lastname 都相同最後再看 ID
-
-   * 網址：<a href="https://stackblitz.com/edit/typescript-gguzkw?file=index.ts">https://stackblitz.com/edit/typescript-gguzkw?file=index.ts</a>
-
-#### 2.  angular guards 實作
-
-   * 實做出 angular router 裡的保護路由, 可依條件來判斷是否可進入頁面 
-
-   * 網址：<a href="https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts">https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts</a>
-
-#### 3.  typescript 的 interface 和 enum 實作
-
-   * 實做出 typescript 裡的 interface 和 enum
-
-   * 網址：<a href="https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
-   * 網址：<a href="https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
-
-#### 4.  rxjs 計數器
+#### 1.  rxjs 計數器 (React/Angular) (2021年)
 
    * 使用 rxjs 製作一個具有「分圈計時」功能的計時器,
    
@@ -41,26 +21,58 @@
      * 當按下「停止」時，畫面保持在目前記錄的時間，但當按下「開始」時會重新從 0 開始計時。
      * 每當按下「分圈」按鈕，記錄當下分圈的時間。
      * 可以分別記錄奇數分圈（第 1、3、5 圈）和偶數分圈（第 2、4、6 圈）。
-     * 網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
+     * React 版本網址：<a href="https://stackblitz.com/edit/react-ts-7bodba">https://stackblitz.com/edit/react-ts-7bodba</a>
+     * Angular 版本網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
+     
 
-#### 5.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next)
+#### 2.  資料排序練習 (javascript) (2021年)
 
-   * 商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能。 
-   * 網址：<a href="https://github.com/eb3pb3ey83/react-glasses">https://github.com/eb3pb3ey83/react-glasses</a>
+   * 優先使用 FirstName 排序
+   * 如果相同名稱再看 LastName 如果連 Lastname 都相同最後再看 ID
+
+   * 網址：<a href="https://stackblitz.com/edit/typescript-gguzkw?file=index.ts">https://stackblitz.com/edit/typescript-gguzkw?file=index.ts</a>
+
+#### 3.  angular guards 實作 (2021年)
+
+   * 實做出 angular router 裡的保護路由, 可依條件來判斷是否可進入頁面 
+
+   * 網址：<a href="https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts">https://stackblitz.com/edit/angular-ivy-67wdwx?file=src%2Fapp%2Fguard%2Fauth-guard.ts</a>
 
 
-#### 6.  影音平台 (React/rxjs/scss)
+#### 4.  typescript 的 interface 和 enum 實作 (2021年)
 
-   * 影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
-   * 網址：<a href="https://github.com/eb3pb3ey83/video-platform">https://github.com/eb3pb3ey83/video-platform</a>
+   * 實做出 typescript 裡的 interface 和 enum
+
+   * 網址：<a href="https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts">https://stackblitz.com/edit/typescript-interfaces-practice-sfi2c3?file=index.ts</a>
+   * 網址：<a href="https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts">https://stackblitz.com/edit/typescript-enum-demo-mcvep5?file=index.ts</a>
+
    
-#### 7. 國泰健檢 - (angular )
+#### 5. 國泰健檢 - (angular - 2020年)
 
    * 國泰的健檢預約平台, 和另外兩位同事共同開發, 有使用 interceptor 來實現依序呼叫 api 的功能 (interceptor 會先拿完 token 後再去呼叫 api, 確保每隻 api 呼叫時都會附帶 token)
    * 網址：<a href="https://booking.cathay-hcm.com.tw/booking/enterprise/">https://booking.cathay-hcm.com.tw/booking/enterprise</a>
    * 國泰的健檢預約系統   
 
-#### 8.  相片裁切工具 (React)
+
+#### 6.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next) (2020年)
+
+   * 公司專案, 主要實作商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能。 
+
+
+#### 7.  影音平台 (React/rxjs/scss) (2020年)
+
+   * 公司專案, 主要實作影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
+
+
+#### 8. Saatchi - (react) (2019年)
+
+   * 公司專案, 主要實作圖片影片檔案上傳(使用 chunk file upload 技術) + 下載 + 線上播放功能
+
+#### 9. 遊戲橘子內部員工管理系統 - Team up (react) (2018年)
+
+   * 遊戲橘子的內部員工管理系統
+
+#### 10.  相片裁切工具 (React - 2018年)
 
    * 使用react和canvas開發的相片切割工具，可把裁好的圖片下載到電腦上。
    * 手機、平板、電腦皆可使用。
@@ -68,73 +80,61 @@
    * 可自訂相框的尺寸、形狀，也可等比例放大縮小相框來進行裁切。
    * 網址：<a href="https://eb3pb3ey83.github.io/reactImageEditor/">https://eb3pb3ey83.github.io/reactImageEditor/</a>
       
-#### 9.  高雄美食網 (React/Redux)
+#### 11.  高雄美食網 (React/Redux) (2018年)
 
    * 使用React + Redux製作，可查詢高雄各地的知名美食店家
    * 利用 AJAX 介接 JSON 資料
    * 網址：<a href="https://eb3pb3ey83.github.io/KaohsiungDelicacy/">https://eb3pb3ey83.github.io/KaohsiungDelicacy/</a>
     
-#### 10.  圈圈叉叉遊戲(無限放大版)  (React)
+#### 12.  圈圈叉叉遊戲(無限放大版)  (React) (2018年)
 
    * 使用react製作的圈圈叉叉小遊戲，格數可依照玩家喜好無限增加。
    * 網址：<a href="https://codepen.io/eb3pb3ey83/full/EwdLxe/">https://codepen.io/eb3pb3ey83/full/EwdLxe/</a>
 
-#### 11.  旋轉式輪播 (React/CSS3)
+#### 13.  旋轉式輪播 (React/CSS3) (2017年)
 
    * 用react和css3製作的輪播，圖片變換時會旋轉。
    * 網址：<a href="https://codepen.io/eb3pb3ey83/full/mpQwQL/">https://codepen.io/eb3pb3ey83/full/mpQwQL/</a>
 
-#### 12.  可以抓來抓去的圖片 (React)
+#### 14.  可以抓來抓去的圖片 (React) (2017年)
 
    * 在React框架上用e.clientX、e.clientY來製作可以抓放的圖片。
    * 網址：<a href="https://codepen.io/eb3pb3ey83/full/dJEoVJ/">https://codepen.io/eb3pb3ey83/full/dJEoVJ/</a>
    
-#### 13.  Camera Store (CSS3/RWD)
+#### 15.  Camera Store (CSS3/RWD) (2017年)
 
    * 用flex製作一個RWD相機拍賣網站。
    * 網址：<a href="https://eb3pb3ey83.github.io/cameraStore/">https://eb3pb3ey83.github.io/cameraStore/</a>
    
-#### 14. 勝利首席 (Jquery/SCSS)
+#### 16. 勝利首席 (Jquery/SCSS) (2016年)
 
    * 用CSS和jquery做的一個建案網站，裡面做了很多動畫效果。  
    * 網址：<a href="http:// http://victoryone.tw/">http:// http://victoryone.tw/</a>
    
-#### 15. 實踐大學官網 (Jquery/SCSS)
+#### 17. 實踐大學官網 (Jquery/SCSS) (2016年)
 
    * 用CSS3和Jquery來製作的鋼筋結構圖。
    * 網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
    
-#### 16. 華梵大學官網 (Jquery/SCSS)
+#### 18. 華梵大學官網 (Jquery/SCSS) (2016年)
 
    * 用CSS3和Jquery來製作的鋼筋結構圖。
    * 網址：<a href="http://www.hfu.edu.tw/">http://www.hfu.edu.tw/</a>
 
-#### 17. 明道大學官網 (Jquery/SCSS)
+#### 19. 明道大學官網 (Jquery/SCSS) (2016年)
 
    * 用CSS3和Jquery來製作的鋼筋結構圖。
    * 網址：<a href="http://www.usc.edu.tw/">http://www.usc.edu.tw/</a>
    
-#### 18. 鋼筋水泥結構圖 (Jquery/CSS3)
+#### 20. 鋼筋水泥結構圖 (Jquery/CSS3) (2016年)
 
    * 用CSS3和Jquery來製作的鋼筋結構圖。
    * 網址：<a href="https://eb3pb3ey83.github.io/building/">https://eb3pb3ey83.github.io/building/</a>
 
-#### 19. 瞄準動畫 (CSS3)
+#### 21. 瞄準動畫 (CSS3) (2016年)
 
    * 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
    * 網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
-
-#### 20. 遊戲橘子內部員工管理系統 - Team up (react)
-
-   * 遊戲橘子的內部員工管理系統
-
-#### 21. 豐利多 - (react)
-
-   * 房屋銷售系統,有實做多國語系
-
-#### 22. Saatchi - (react)
-
-   * 廣告投放平台, 有實作媒體檔案上傳下載功能
 
 
 
