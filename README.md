@@ -21,8 +21,8 @@
      * 當按下「停止」時，畫面保持在目前記錄的時間，但當按下「開始」時會重新從 0 開始計時。
      * 每當按下「分圈」按鈕，記錄當下分圈的時間。
      * 可以分別記錄奇數分圈（第 1、3、5 圈）和偶數分圈（第 2、4、6 圈）。
-     * React 版本網址：<a href="https://stackblitz.com/edit/react-ts-7bodba">https://stackblitz.com/edit/react-ts-7bodba</a>
-     * Angular 版本網址：<a href="https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve">https://stackblitz.com/edit/dct-110008-stopwatch-finished-aeimve</a>
+     * React 版本網址：<a href="https://stackblitz.com/edit/react-timer-sa84202947?">https://stackblitz.com/edit/react-timer-sa84202947</a>
+     * Angular 版本網址：<a href="https://stackblitz.com/edit/angular-timer-sa84202947">https://stackblitz.com/edit/angular-timer-sa84202947</a>
      
 
 #### 2.  資料排序練習 (javascript) (2021年)
