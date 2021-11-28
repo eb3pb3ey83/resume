@@ -2,12 +2,17 @@
 
 * English Name: Samuel Chuang
 * Location : 新竹市北區
-* Education : 資策會web/app前端工程師養成班、淡江大學歷史學系
+* Education : 資策會web/app前端工程師養成班、淡江大學歷史學系、淡江大學資訊工程學系研究所在職專班就讀中
 * E-mail : samuellllllllllllll@hotmail.com
 
 
 
 ## Works
+
+#### 1.  virtualized list 實作 (2021年)
+
+     * 自己練習實做出來的 virtualized list, 當列表顯示在畫面當中時才會渲染, 藉此來達到節省效能的目的。
+     * 網址：<a href="https://stackblitz.com/edit/react-ts-nb9ios">https://stackblitz.com/edit/react-ts-nb9ios</a>
 
 #### 1.  rxjs 計數器 (React/Angular) (2021年)
 
@@ -56,7 +61,7 @@
 
 #### 6.  商品後台管理系統 (Typescript/React/xstate/material-ui/i18next) (2020年)
 
-   * 公司專案, 主要實作商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能。 
+   * 公司專案, 主要使用 xstate & react-query 實作商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能。 
 
 
 #### 7.  影音平台 (React/rxjs/scss) (2020年)
