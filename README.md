@@ -11,8 +11,8 @@
 
 #### 1.  virtualized list 實作 (2021年)
 
-     * 自己練習實做出來的 virtualized list, 當列表顯示在畫面當中時才會渲染, 藉此來達到節省效能的目的。
-     * 網址：<a href="https://stackblitz.com/edit/react-ts-nb9ios">https://stackblitz.com/edit/react-ts-nb9ios</a>
+   * 自己練習實做出來的 virtualized list, 當列表顯示在畫面當中時才會渲染, 藉此來達到節省效能的目的。
+   * 網址：<a href="https://stackblitz.com/edit/react-ts-nb9ios">https://stackblitz.com/edit/react-ts-nb9ios</a>
 
 #### 1.  rxjs 計數器 (React/Angular) (2021年)
 
