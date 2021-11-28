@@ -2,9 +2,62 @@
 
 * English Name: Samuel Chuang
 * Location : 新竹市北區
-* Education : 資策會web/app前端工程師養成班、淡江大學歷史學系、淡江大學資訊工程學系研究所在職專班就讀中
+* Education : 
+* 淡江大學歷史學系 (2009/9 - 2013/6)
+* 資策會web/app前端工程師養成班 (2015/3 - 2015/9)
+* 淡江大學資訊工程學系研究所在職專班就讀中 (2021/9 - )
 * E-mail : samuellllllllllllll@hotmail.com
 
+## Career
+
+#### 雲端互動股份有限公司 – 前端工程師 (2018/02 - 至今)
+
+* 新人教學、Code Review、Know-How整理與分享
+* 與團隊及PM進行專案進度掌控，上板時程規劃的同步與討論
+* 功能開發時程與風險評估
+* 與BA、UI、RD、QA進行跨部門溝通，處理資料架構、流程、技術文件等問題與需求
+* 使用 xstate & react-query 實作商品的後台管理系統, 實作忘記密碼 & 帳號管理 & 會員權限的功能。 
+* 實作影片和圖片的上傳平台, 使用 chunk file upload 的方式來上傳影片和圖片, 另外也使用 rxjs 來實做 timepicker。 
+* Angular專案架構規劃/開發，並以 interceptor 來實現依序呼叫 api 的功能 (interceptor 會先拿完 token 後再去呼叫 api, 確保每隻 api 呼叫時都會附帶 token)
+* 使用 rxjs 來製作共用的搜尋模組 & lazyload 模組, 兩者可合併使用, 以達到程式複用的效果
+* 手機板網頁瀏覽器相容性調適
+
+#### 鼎桓數位科技股份有限公司 – 前端工程師 (2017/06 - 2018/01)
+
+* 參與公司新版招募網頁開發專案，負責網頁功能與資料渲染的 JS 部分
+* 參與公司人資產品開發專案，負責網頁功能與資料渲染的 JS 部分
+* 與後端合作，熟悉 API 操作與前後端的溝通
+
+#### 銳綸數位股份有限公司 - 網頁設計師 (2015/09 – 2017/06)
+
+* 製作學校單位和建案網站 
+* 使用photoshop製作版型 
+* 負責網頁切版和jquery動畫製作
+
+## Skills 
+
+  #### HTML/CSS/RWD/JavaScript
+
+  * HTML 建立網頁架構、CSS 修飾網頁、RWD 響應式設計
+  * 熟悉 JavaScript，能夠運用程式邏輯編寫各種效果
+  * 使用 jQuery製做動畫效果
+
+  #### AJAX/ReactJS/Redux/Xstate
+
+  * 瞭解 JSON、第三方 API 串聯網頁的方式
+  * 使用 AJAX 與資料庫進行基礎串聯
+  * 使用 ReactJS 對 DOM 進行操作
+  * 使用 Redux & toolkit 連接後端 API，了解如何對redux的state進行操作
+  * 使用 Xstate 來進行網頁狀態管理
+
+  #### Angular/Rxjs/
+  
+  * 熟悉 module切分、layout共用元件、共用模組、guard 路由守衛功能
+  * 使用 Rxjs 來進行資料流管理
+
+  #### Git/GitHub
+
+  * 能使用 Git 在 GitHub 上進行版本管理(commit、branch、push/pull、tag...etc)
 
 
 ## Works
@@ -140,47 +193,6 @@
 
    * 用CSS animation製作的動畫，父層和子層兩個走相反的方向可以讓圓圈裡的圖片靜止不動。
    * 網址：<a href="https://eb3pb3ey83.github.io/aiming/">https://eb3pb3ey83.github.io/aiming/</a>
-
-
-
-## Career
-
-#### 銳綸數位股份有限公司 - 網頁設計師 (2015/09 – 2017/06)
-
-* 製作學校單位和建案網站 
-* 使用photoshop製作版型 
-* 負責網頁切版和jquery動畫製作
-
-#### 鼎桓數位科技股份有限公司 – 前端工程師 (2017/06 - 2018/01)
-
-* 參與公司新版招募網頁開發專案，負責網頁功能與資料渲染的 JS 部分
-* 參與公司人資產品開發專案，負責網頁功能與資料渲染的 JS 部分
-* 與後端合作，熟悉 API 操作與前後端的溝通
-
-#### 雲端互動股份有限公司 – 前端工程師 (2018/02 - 至今)
-
-* 負責網頁功能與資料渲染的 JS 部分
-* 與後端合作，熟悉 API 操作與前後端的溝通
-
-## Skills 
-
-  #### HTML/CSS/RWD/JavaScript/jQuery
-
-  * HTML 建立網頁架構、CSS 修飾網頁、RWD 響應式設計
-  * 熟悉 JavaScript，能夠運用程式邏輯編寫各種效果
-  * 使用 jQuery製做動畫效果
-
-  #### AJAX/ReactJS/Redux
-
-  * 瞭解 JSON、第三方 API 串聯網頁的方式
-  * 使用 AJAX 與資料庫進行基礎串聯
-  * 使用ReactJS 對 DOM 進行操作
-  * 使用Redux 連接後端 API，了解如何對redux的state進行操作
-
-  #### Git/GitHub
-
-  * 能使用 Git 在 GitHub 上進行版本管理(commit、branch、push/pull、tag...etc)
-
 
 
 ## Introduction
